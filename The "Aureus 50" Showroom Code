@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AUREUS v5.0 | Industrial Infrastructure</title>
+    <style>
+        body { background-color: #000; color: #fff; font-family: 'Helvetica', sans-serif; text-align: center; padding: 50px; }
+        .container { max-width: 900px; margin: auto; border: 1px solid #333; padding: 40px; }
+        .phoenix { width: 100%; max-width: 600px; margin-bottom: 30px; border: 1px solid #ffd700; }
+        h1 { font-size: 2.5em; letter-spacing: 5px; color: #ffd700; margin-bottom: 10px; }
+        .status { color: #00ff00; font-family: monospace; margin-bottom: 30px; }
+        .valuation { font-size: 1.5em; border-top: 1px solid #333; border-bottom: 1px solid #333; padding: 20px 0; margin: 20px 0; }
+        .cta-button { background-color: #ffd700; color: #000; padding: 15px 30px; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="YOUR_PHOENIX_IMAGE_LINK" alt="Aureus Phoenix" class="phoenix">
+        
+        <h1>MOTHER-CODE-AUREUS</h1>
+        <div class="status">SYSTEM STATUS: 99.999% RELIABILITY INITIALIZED</div>
+        
+        <p>Industrial Squad Management. Zero-Water Logic. 20 Years of Ground-Truth Architecture.</p>
+        
+        <div class="valuation">ASSET VALUATION: $20,000.00 USD</div>
+        
+        <a href="LINK_TO_YOUR_DTI6_PDF" class="cta-button">VIEW DTI-6 VIP AUTHORIZATION</a>
+        
+        <p style="margin-top: 40px; font-size: 0.8em; color: #666;">
+            © 2026 FLORES LANDSCAPE AND DESIGN LLC | GLENDALE, AZ
+        </p>
+    </div>
+</body>
+</html>
